@@ -24,9 +24,3 @@ https://public.tableau.com/views/NetflixContent_17744602666110/Dashboard1?:langu
 - netflix_sql.sql — SQL cleaning and analysis queries
 - dashboard_screenshot.png — Dashboard preview
 - Netflix_Insight_Summary.docx — 1-page executive summary
-
-## Resume Bullet
-"Analyzed 8,800 Netflix titles using SQL and Tableau to surface 
-a 3x increase in international content (2016–2021); built an 
-interactive dashboard and 1-page executive summary framing 
-content strategy implications." Netflix-Content-Strategy-Analysis
